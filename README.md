@@ -10,9 +10,12 @@ A simple overview of nginx setup
 `/usr/local/etc/nginx/`
 
 `/usr/local/var/logs/`
+
 `/usr/local/var/run/`
 ###### Logs
 `/usr/local/var/logs/`
 
 ###### Proxy
+
 ###### Default configuration
+[nginx.conf.default] (https://github.com/shaunwarman/nginx-setup/blob/master/nginx.conf.default)
